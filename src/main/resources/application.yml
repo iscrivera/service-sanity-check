@@ -1,0 +1,14 @@
+server:
+  port: 9090
+app:
+  menus:
+  -
+    name: Home
+  -
+    name: Service
+  -
+    name: Dropdown
+    submenu:
+      - Link 1
+      - Link 2
+      - Link 3
